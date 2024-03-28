@@ -13,3 +13,5 @@ if user:
     print ("you can vote")
 else:
     print("youi cannot vote")
+
+v = 1 
